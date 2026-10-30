@@ -15,7 +15,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open link.html",
-            "file": "e:\\main\\src\\main\\link.html"
+            "file": "e:\\main\\src\\main\\index.html"
         }
     ]
 }
