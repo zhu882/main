@@ -14,7 +14,7 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open link.html",
+            "name": "Open index.html",
             "file": "e:\\main\\src\\main\\index.html"
         }
     ]
