@@ -8,5 +8,6 @@
 
 .link:hover {
     transform: scale(1.5);
+    transform-origin: center;
     transition: transform 0.5s ease;
 }
